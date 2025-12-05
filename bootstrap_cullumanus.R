@@ -104,8 +104,7 @@ for (pkg in packages) {
     install.packages(pkg)
   }
 }
-#zynvox-kuMnu6-zuwjyg
-#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
+
 # Snapshot environment into renv.lock
 renv::snapshot()
 
