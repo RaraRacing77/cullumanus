@@ -21,11 +21,13 @@ The results will be published on the blog *Searching for Cullumanus*.
 
 ## Data Structure and Versioning
 This project follows a modular data structure to support reproducibility, governance, and collaborative workflows:
-• data/raw/ — Contains original, unprocessed data files.  
+- data/raw/ — Contains original, unprocessed data files.
 
-Note: This folder is excluded from version control via .gitignore to avoid bloating the repository and to protect sensitive or large files. All cleaning scripts operate on these files locally.
-• data/reference/ — Stores curated reference files such as gazetteer.csv, which provides trusted coordinates for locality validation.
-• data/processed/... — Contains cleaned and flagged datasets, including:
-	◦ combined_clean.csv — Full cleaned dataset with location diagnostics.
-	◦ contentious_records.csv — Subset of records flagged for location mismatch (>10 km).
+This folder is excluded from version control via .gitignore to avoid bloating the repository and to protect sensitive or large files.
+All cleaning scripts operate on these files locally.
+
+- data/reference/ — Stores curated reference files such as gazetteer.csv, which provides trusted coordinates for locality validation.
+- data/processed/... — Contains cleaned and flagged datasets, including:
+	- combined_clean.csv — Full cleaned dataset with location diagnostics.
+ 	- contentious_records.csv — Subset of records flagged for location mismatch (>10 km).
 ---
