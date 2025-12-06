@@ -1,0 +1,147 @@
+gbifID,year,locality,decimalLatitude,decimalLongitude,individualCount,sex,associatedReferences,identifiedBy,basisOfRecord,scientificName,source,jitter_seed,lat_jitter,lon_jitter,locality_norm,ref_lat,ref_lon,notes,distance_to_ref,contentious
+998485685,NA,NA,43.11,-5.15,1,NA,Atlas y/o Libro Rojo,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+998485679,NA,NA,43,-5.76,1,NA,Atlas y/o Libro Rojo,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+998485659,NA,NA,43.03,-4.41,1,NA,Atlas y/o Libro Rojo,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+998485639,NA,NA,43.02,-4.78,1,NA,Atlas y/o Libro Rojo,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+998485633,NA,NA,43.11,-5.27,1,NA,Atlas y/o Libro Rojo,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+998485598,NA,NA,43.2,-4.78,1,NA,Atlas y/o Libro Rojo,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+998485524,NA,NA,42.91,-6.24,1,NA,Atlas y/o Libro Rojo,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+998485515,NA,NA,43.01,-6.61,1,NA,Atlas y/o Libro Rojo,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+998485493,NA,NA,42.91,-5.76,1,NA,Atlas y/o Libro Rojo,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+998485490,NA,NA,43.01,-6.48,1,NA,Atlas y/o Libro Rojo,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941331596,1968,Marana,43.017,-5.148,1,NA,54_Wood_etal_7136_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Marana,43.04931,-5.180763,Google Maps_manual,4.5,OK
+4941331496,1968,Puerto de Tarna,43.105,-5.274,1,NA,54_Wood_etal_7138_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Tarna,43.084289,-5.217645,Google Maps_manual,5.1,OK
+4941331495,1967,Puerto de Tarna,43.105,-5.274,1,NA,54_Wood_etal_6460_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Tarna,43.084289,-5.217645,Google Maps_manual,5.1,OK
+4941331494,1966,Puerto de las Senales,43.105,-5.274,1,NA,54_Wood_etal_6267_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de las Senales,43.075495,-5.243387,Google Maps_manual,4.1,OK
+4941330863,1968,Puerto de San Glorio,43.024,-4.78,1,NA,54_Wood_etal_7148_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de San Glorio,43.066884,-4.765728,Google Maps_manual,4.9,OK
+4941330556,1968,Puerto de Tarna,43.105,-5.274,1,NA,54_Wood_etal_7089_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Tarna,43.084289,-5.217645,Google Maps_manual,5.1,OK
+4941330555,1967,Puerto de Tarna,43.105,-5.274,1,NA,54_Wood_etal_6400_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Tarna,43.084289,-5.217645,Google Maps_manual,5.1,OK
+4941330554,2015,NA,43.105,-5.274,1,NA,"54_Wood_etal_40859_Gbif,2015",NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941325467,NA,NA,43.03,-4.41,1,NA,i1_Gbif_6252_NA,NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941324568,1967,Puerto de Tarna,43.105,-5.274,1,NA,54_Wood_etal_6463_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Tarna,43.084289,-5.217645,Google Maps_manual,5.1,OK
+4941324567,1967,Puerto de las Senales,43.105,-5.274,7,NA,54_Wood_etal_6487_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de las Senales,43.075495,-5.243387,Google Maps_manual,4.1,OK
+4941323429,NA,NA,43.2,-4.78,1,NA,i1_Gbif_6245_NA,NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941323426,1967,Puerto de San Glorio,43.024,-4.78,1,NA,54_Wood_etal_6514_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de San Glorio,43.066884,-4.765728,Google Maps_manual,4.9,OK
+4941323075,1984,NA,43.024,-4.78,1,NA,"54_Wood_etal_34422_Castro, 2010",L. Castro,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941322768,1967,Puerto de Tarna,43.105,-5.274,1,NA,54_Wood_etal_6493_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Tarna,43.084289,-5.217645,Google Maps_manual,5.1,OK
+4941322767,1968,Puerto de las Senales,43.105,-5.274,1,NA,54_Wood_etal_7079_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de las Senales,43.075495,-5.243387,Google Maps_manual,4.1,OK
+4941322019,1967,Puerto de Pajares,43.004,-5.761,1,NA,54_Wood_etal_6498_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Pajares,42.992931,-5.759654,Google Maps_manual,1.2,OK
+4941321580,1988,Puerto de las Señales,43.004,-6.239,1,NA,"54_Wood_etal_35218_Obeso, 1992",J.R. Obeso,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de las Senales,NA,NA,NA,NA,OK
+4941321578,NA,Puerto de la Magdalena,42.825,-6.247,1,NA,"54_Wood_etal_597_Ornosa, Uicn",NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de la Magdalena,42.867892,-6.210745,Google Maps_manual,5.6,OK
+4941321454,1966,Puerto de Leitariegos,43.007,-6.362,1,NA,54_Wood_etal_6266_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Leitariegos,42.998381,-6.417662,Google Maps_manual,4.6,OK
+4941320959,1967,Puerto de Pajares,43.004,-5.761,1,NA,54_Wood_etal_6513_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Pajares,42.992931,-5.759654,Google Maps_manual,1.2,OK
+4941320744,2018,NA,43.097,-6.044,1,NA,46_Obeso_244_https://doi.org/10.1007/s00442-013-2731-7,NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941320520,1988,Puerto el Palo,43.004,-6.239,1,NA,"54_Wood_etal_35219_Obeso, 1992",J.R. Obeso,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto el Palo,43.272423,-6.677801,Google Maps_manual,46.5,Location mismatch >10km
+4941320519,NA,NA,42.91,-6.24,1,NA,i1_Gbif_6238_NA,NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941320517,1967,Puerto de la Magdalena,42.825,-6.247,3,NA,54_Wood_etal_6507_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de la Magdalena,42.867892,-6.210745,Google Maps_manual,5.6,OK
+4941320393,1967,Puerto de Leitariegos,43.007,-6.362,2,NA,54_Wood_etal_6428_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Leitariegos,42.998381,-6.417662,Google Maps_manual,4.6,OK
+4941319348,NA,NA,43.02,-4.78,1,NA,i1_Gbif_6249_NA,NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941319345,1967,Puerto de San Glorio,43.024,-4.78,1,NA,54_Wood_etal_6470_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de San Glorio,43.066884,-4.765728,Google Maps_manual,4.9,OK
+4941318989,1984,NA,43.024,-4.78,1,NA,"54_Wood_etal_34421_Castro, 2010",L. Castro,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941318980,2015,NA,43.204,-4.785,1,NA,"54_Wood_etal_40861_Gbif,2015",NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941318681,1967,Puerto de Tarna,43.105,-5.274,1,NA,54_Wood_etal_6475_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Tarna,43.084289,-5.217645,Google Maps_manual,5.1,OK
+4941318680,1967,Puerto de las Senales,43.105,-5.274,1,NA,54_Wood_etal_6567_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de las Senales,43.075495,-5.243387,Google Maps_manual,4.1,OK
+4941317562,2015,NA,43.029,-4.412,1,NA,"54_Wood_etal_40858_Gbif,2015",NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941316150,2015,NA,43.024,-4.78,1,NA,"54_Wood_etal_40857_Gbif,2015",NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941315942,NA,NA,43.11,-5.15,1,NA,i1_Gbif_6254_NA,NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941315842,1967,Puerto de Tarna,43.105,-5.274,1,NA,54_Wood_etal_6515_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Tarna,43.084289,-5.217645,Google Maps_manual,5.1,OK
+4941315841,1968,Puerto de las Senales,43.105,-5.274,1,NA,54_Wood_etal_7088_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de las Senales,43.075495,-5.243387,Google Maps_manual,4.1,OK
+4941315306,1966,Puerto de Pajares,43.004,-5.761,1,NA,54_Wood_etal_6259_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Pajares,42.992931,-5.759654,Google Maps_manual,1.2,OK
+4941315219,NA,Maraña,43.017,-5.148,1,NA,"54_Wood_etal_595_Ornosa, Uicn",NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Marana,NA,NA,NA,NA,OK
+4941315119,1966,Puerto de Tarna,43.105,-5.274,2,NA,54_Wood_etal_6268_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Tarna,43.084289,-5.217645,Google Maps_manual,5.1,OK
+4941315118,1984,NA,43.105,-5.274,1,NA,"54_Wood_etal_34424_Castro, 2010",L. Castro,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941314583,1967,Puerto de Pajares,43.004,-5.761,1,NA,54_Wood_etal_6459_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Pajares,42.992931,-5.759654,Google Maps_manual,1.2,OK
+4941314032,1968,Puerto de Pajares,43.004,-5.761,1,NA,54_Wood_etal_7090_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Pajares,42.992931,-5.759654,Google Maps_manual,1.2,OK
+4941313836,NA,Asturias,43.358,-5.981,1,NA,"54_Wood_etal_593_Ornosa, Uicn",NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Asturias,NA,NA,NA,NA,OK
+4941313817,2018,NA,43.097,-6.044,1,NA,46_Obeso_245_https://doi.org/10.1007/s00442-013-2731-7,NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941313467,1967,Puerto de Leitariegos,43.007,-6.362,1,NA,54_Wood_etal_6512_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Leitariegos,42.998381,-6.417662,Google Maps_manual,4.6,OK
+4941313241,2015,NA,42.914,-5.757,1,NA,"54_Wood_etal_40853_Gbif,2015",NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941313232,2015,NA,43.004,-5.761,1,NA,"54_Wood_etal_40854_Gbif,2015",NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941312666,1988,Puerto el Palo,43.007,-6.362,1,NA,"54_Wood_etal_35220_Obeso, 1992",J.R. Obeso,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto el Palo,43.272423,-6.677801,Google Maps_manual,39.1,Location mismatch >10km
+4941312315,NA,NA,43.01,-6.61,1,NA,i1_Gbif_6236_NA,NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941310044,NA,NA,43.11,-5.27,1,NA,i1_Gbif_6247_NA,NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941310038,1968,Puerto de Tarna,43.105,-5.274,1,NA,54_Wood_etal_7086_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Tarna,43.084289,-5.217645,Google Maps_manual,5.1,OK
+4941309507,NA,NA,43,-5.76,1,NA,i1_Gbif_6253_NA,NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941309502,1967,Puerto de Pajares,43.004,-5.761,1,NA,54_Wood_etal_6458_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Pajares,42.992931,-5.759654,Google Maps_manual,1.2,OK
+4941309154,1984,NA,42.914,-5.757,1,NA,"54_Wood_etal_34420_Castro, 2010",L. Castro,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941308704,1968,Puerto de la Magdalena,42.825,-6.247,1,NA,54_Wood_etal_7100_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de la Magdalena,42.867892,-6.210745,Google Maps_manual,5.6,OK
+4941308579,1968,Puerto de Leitariegos,43.007,-6.362,1,NA,54_Wood_etal_7101_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Leitariegos,42.998381,-6.417662,Google Maps_manual,4.6,OK
+4941308410,NA,NA,43.01,-6.48,1,NA,i1_Gbif_6229_NA,NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941308245,1966,Puerto de San Glorio,43.024,-4.78,1,NA,54_Wood_etal_6271_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de San Glorio,43.066884,-4.765728,Google Maps_manual,4.9,OK
+4941308239,NA,Fuente Dé,43.114,-4.782,1,NA,"54_Wood_etal_594_Ornosa, Uicn",NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Fuente De,NA,NA,NA,NA,OK
+4941308107,NA,Puerto de las Senales,43.2,-5.031,1,NA,"54_Wood_etal_598_Ornosa, Uicn",NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de las Senales,43.075495,-5.243387,Google Maps_manual,22.1,Location mismatch >10km
+4941308031,2015,NA,43.108,-5.151,1,NA,"54_Wood_etal_40860_Gbif,2015",NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941307937,1968,Puerto de Tarna,43.105,-5.274,1,NA,54_Wood_etal_7080_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Tarna,43.084289,-5.217645,Google Maps_manual,5.1,OK
+4941307936,1968,Puerto de las Senales,43.105,-5.274,1,NA,54_Wood_etal_7137_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de las Senales,43.075495,-5.243387,Google Maps_manual,4.1,OK
+4941307401,1967,Puerto de Pajares,43.004,-5.761,1,NA,54_Wood_etal_6429_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Pajares,42.992931,-5.759654,Google Maps_manual,1.2,OK
+4941307037,1984,NA,43.024,-4.78,1,NA,"54_Wood_etal_34423_Castro, 2010",L. Castro,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941306730,1967,Puerto de Tarna,43.105,-5.274,1,NA,54_Wood_etal_6497_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Tarna,43.084289,-5.217645,Google Maps_manual,5.1,OK
+4941306729,1968,Puerto de las Senales,43.105,-5.274,1,NA,54_Wood_etal_7085_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de las Senales,43.075495,-5.243387,Google Maps_manual,4.1,OK
+4941305865,2015,NA,42.914,-6.243,1,NA,"54_Wood_etal_40852_Gbif,2015",NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941305741,1988,Puerto el Palo,43.007,-6.362,1,NA,"54_Wood_etal_35221_Obeso, 1992",J.R. Obeso,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto el Palo,43.272423,-6.677801,Google Maps_manual,39.1,Location mismatch >10km
+4941305390,2015,NA,43.013,-6.607,1,NA,"54_Wood_etal_40856_Gbif,2015",NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941304017,NA,Puerto de Leitariegos,43.007,-6.362,1,NA,"54_Wood_etal_599_Ornosa, Uicn",NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Leitariegos,42.998381,-6.417662,Google Maps_manual,4.6,OK
+4941300765,2015,NA,43.01,-6.485,1,NA,"54_Wood_etal_40855_Gbif,2015",NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941298205,NA,Puerto de Aralla,42.825,-5.753,1,NA,"54_Wood_etal_596_Ornosa, Uicn",NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Aralla,42.903926,-5.804721,Google Maps_manual,9.7,OK
+4941298201,NA,NA,42.91,-5.76,1,NA,i1_Gbif_6230_NA,NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,NA,NA,NA,NA,NA,OK
+4941298194,NA,Puerto de Pajares,43.004,-5.761,1,NA,"54_Wood_etal_600_Ornosa, Uicn",NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Pajares,42.992931,-5.759654,Google Maps_manual,1.2,OK
+4941296843,NA,Puerto de Ranadoiro,43.097,-6.358,1,NA,"54_Wood_etal_601_Ornosa, Uicn",NA,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Ranadoiro,42.996811,-6.63489,Google Maps_manual,25.1,Location mismatch >10km
+4941296155,1968,Puerto de Ranadoiro,43.285,-6.72,1,NA,54_Wood_etal_7103_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Ranadoiro,42.996811,-6.63489,Google Maps_manual,32.8,Location mismatch >10km
+4941287250,1968,Puerto de Ranadoiro,43.285,-6.72,2,NA,54_Wood_etal_7104_Yarrow 1970,P. Rasmont,OCCURRENCE,"Bombus inexspectatus (Tkalcu, 1963)",GBIF,NA,NA,NA,Puerto de Ranadoiro,42.996811,-6.63489,Google Maps_manual,32.8,Location mismatch >10km
+NA,1966,NA,43.04709,-5.82374,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1966,NA,43.05288,-6.42154,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1966,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1966,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1966,NA,43.06711,-4.8422,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1967,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1967,NA,43.05288,-6.42154,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1967,NA,43.04709,-5.82374,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1967,NA,43.04709,-5.82374,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1967,NA,43.04709,-5.82374,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1967,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1967,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1967,NA,43.06711,-4.8422,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1967,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1967,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1967,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1967,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1967,NA,43.04709,-5.82374,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1967,NA,42.86721,-6.18447,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1967,NA,43.05288,-6.42154,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1967,NA,43.04709,-5.82374,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1967,NA,43.06711,-4.8422,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1967,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1967,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1968,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1968,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1968,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1968,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1968,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1968,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1968,NA,43.04709,-5.82374,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1968,NA,42.86721,-6.18447,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1968,NA,43.05288,-6.42154,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1968,NA,43.23809,-6.66004,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1968,NA,43.23809,-6.66004,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1968,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1968,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1968,NA,43.06289,-5.08768,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1968,NA,43.06711,-4.8422,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1984,NA,43.06711,-4.8422,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1984,NA,43.05815,-5.3331,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1984,NA,42.86721,-5.81553,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1984,NA,43.06711,-4.8422,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1984,NA,43.06711,-4.8422,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1988,NA,43.05288,-6.42154,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1988,NA,43.04709,-6.17626,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1988,NA,43.04709,-6.17626,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,1988,NA,43.05288,-6.42154,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,NA,NA,43.06711,-4.8422,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,NA,NA,42.86721,-6.18447,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,NA,NA,43.05288,-6.42154,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,NA,NA,43.06289,-5.08768,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,NA,NA,43.24286,-5.09382,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,NA,NA,43.04709,-5.82374,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,NA,NA,43.05288,-6.42154,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,NA,NA,42.86721,-5.81553,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK
+NA,NA,NA,43.40042,-6.01703,1,NA,NA,NA,HUMAN_OBSERVATION,"Bombus inexspectatus (Tkalcu, 1963)",Atlas Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,OK

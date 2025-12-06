@@ -1,4 +1,4 @@
-# setup_project_structure.R
+# bootstrap_cullumanus.R
 # Run this once in a new RStudio project to scaffold folders
 
 # Load required package
@@ -49,21 +49,6 @@ The results will be published on the blog *Searching for Cullumanus*.
 
 writeLines(readme_text, "README.md")
 
-# Install minimal packages
-install.packages(c(
-  "here",
-  "fs",
-  "rgbif",
-  "dplyr",
-  "tidyr",
-  "readr",
-  "skimr",
-  "janitor"
-))
-
-# Snapshot environment with renv
-renv::snapshot()
-
 ############################################################
 # Project: cullumanus
 # Purpose: Initialize folder structure and install minimal 
@@ -84,9 +69,6 @@ renv::snapshot()
 # - Outputs (maps, tables) are saved in outputs/
 # - Documentation and Quarto files live in docs/
 ############################################################
-
-# bootstrap_cullumanus.R
-# Run this once inside your cullumanus project
 
 # Minimal package set for GBIF workflows
 packages <- c(
@@ -109,5 +91,3 @@ for (pkg in packages) {
 
 # Snapshot environment into renv.lock
 renv::snapshot()
-
-cat("✅ Minimal package set installed and snapshotted for cullumanus!\n")

@@ -1,0 +1,8 @@
+gbifID,year,locality,decimalLatitude,decimalLongitude,distance_to_ref,contentious,associatedReferences,flagged_on
+4941296155,1968,Puerto de Ranadoiro,43.285,-6.72,32.8,Location mismatch >10km,54_Wood_etal_7103_Yarrow 1970,2025-12-06
+4941287250,1968,Puerto de Ranadoiro,43.285,-6.72,32.8,Location mismatch >10km,54_Wood_etal_7104_Yarrow 1970,2025-12-06
+4941296843,NA,Puerto de Ranadoiro,43.097,-6.358,25.1,Location mismatch >10km,"54_Wood_etal_601_Ornosa, Uicn",2025-12-06
+4941308107,NA,Puerto de las Senales,43.2,-5.031,22.1,Location mismatch >10km,"54_Wood_etal_598_Ornosa, Uicn",2025-12-06
+4941320520,1988,Puerto el Palo,43.004,-6.239,46.5,Location mismatch >10km,"54_Wood_etal_35219_Obeso, 1992",2025-12-06
+4941312666,1988,Puerto el Palo,43.007,-6.362,39.1,Location mismatch >10km,"54_Wood_etal_35220_Obeso, 1992",2025-12-06
+4941305741,1988,Puerto el Palo,43.007,-6.362,39.1,Location mismatch >10km,"54_Wood_etal_35221_Obeso, 1992",2025-12-06
