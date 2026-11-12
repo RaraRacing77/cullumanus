@@ -2,7 +2,7 @@
 
 This project analyzes species distributions in Spain for Lepidoptera, Hymenoptera, and Odonata using GBIF data.  
 There is a focus on Cantabrian species and their conservation status.  
-The results will be published on the blog *Searching for Cullumanus*.
+The results will be published on the blog *Searching for Cullum's Bee*.
 
 ## Folder Structure
 - `data/raw/<taxon>/`: Raw GBIF downloads
